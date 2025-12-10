@@ -1,0 +1,7 @@
+model_1,model_2,mean_error_1,mean_error_2,ttest_pvalue,ttest_significant,permutation_pvalue,permutation_significant,winner
+LSTM,GRU,1.0967559,0.7875391,0.0,True,0.0,True,GRU
+LSTM,Attention,1.0967559,1.1096967,0.0004175798529756382,True,0.269,False,LSTM
+LSTM,TCN,1.0967559,0.73845595,0.0,True,0.0,True,TCN
+GRU,Attention,0.7875391,1.1096967,0.0,True,0.0,True,GRU
+GRU,TCN,0.7875391,0.73845595,3.898165253863812e-13,True,0.0,True,TCN
+Attention,TCN,1.1096967,0.73845595,0.0,True,0.0,True,TCN
