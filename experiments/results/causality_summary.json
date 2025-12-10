@@ -1,0 +1,33 @@
+{
+  "n_stocks": 13,
+  "threshold": 0.15,
+  "n_significant_edges": 41,
+  "edge_density": 0.26282051282051283,
+  "top_relationships": [
+    {
+      "source": "MSFT",
+      "target": "META",
+      "strength": 0.6463926733728406
+    },
+    {
+      "source": "GOOGL",
+      "target": "META",
+      "strength": 0.6443545727771299
+    },
+    {
+      "source": "TSLA",
+      "target": "AAPL",
+      "strength": 0.5174543330948672
+    },
+    {
+      "source": "QQQ",
+      "target": "META",
+      "strength": 0.51058967520152
+    },
+    {
+      "source": "META",
+      "target": "AAPL",
+      "strength": 0.4934729509982024
+    }
+  ]
+}

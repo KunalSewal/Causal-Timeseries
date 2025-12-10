@@ -1,0 +1,290 @@
+[
+  {
+    "source": "INTC",
+    "target": "AAPL",
+    "p_value": 0.00025351047402202907,
+    "lag": 3
+  },
+  {
+    "source": "SPY",
+    "target": "AAPL",
+    "p_value": 0.015010950667812939,
+    "lag": 3
+  },
+  {
+    "source": "^VIX",
+    "target": "AAPL",
+    "p_value": 0.012521839757383073,
+    "lag": 3
+  },
+  {
+    "source": "AAPL",
+    "target": "AMZN",
+    "p_value": 0.028210139935137987,
+    "lag": 3
+  },
+  {
+    "source": "META",
+    "target": "AMZN",
+    "p_value": 2.4048170948924084e-10,
+    "lag": 3
+  },
+  {
+    "source": "NFLX",
+    "target": "AMZN",
+    "p_value": 0.030895598947395755,
+    "lag": 3
+  },
+  {
+    "source": "TSLA",
+    "target": "AMZN",
+    "p_value": 0.028876446196508684,
+    "lag": 3
+  },
+  {
+    "source": "INTC",
+    "target": "AMZN",
+    "p_value": 0.0025874683153260633,
+    "lag": 3
+  },
+  {
+    "source": "SPY",
+    "target": "AMZN",
+    "p_value": 0.013157912495755503,
+    "lag": 3
+  },
+  {
+    "source": "QQQ",
+    "target": "AMZN",
+    "p_value": 0.0400904620801145,
+    "lag": 3
+  },
+  {
+    "source": "TSLA",
+    "target": "NFLX",
+    "p_value": 0.0077747570672440595,
+    "lag": 3
+  },
+  {
+    "source": "AMD",
+    "target": "NFLX",
+    "p_value": 0.04991471778081743,
+    "lag": 3
+  },
+  {
+    "source": "^VIX",
+    "target": "NFLX",
+    "p_value": 0.04841702994599242,
+    "lag": 3
+  },
+  {
+    "source": "INTC",
+    "target": "GOOGL",
+    "p_value": 0.0077688444448590415,
+    "lag": 3
+  },
+  {
+    "source": "SPY",
+    "target": "GOOGL",
+    "p_value": 0.012019139178712612,
+    "lag": 3
+  },
+  {
+    "source": "INTC",
+    "target": "MSFT",
+    "p_value": 1.776472117166654e-05,
+    "lag": 3
+  },
+  {
+    "source": "SPY",
+    "target": "MSFT",
+    "p_value": 1.6943612281174133e-05,
+    "lag": 3
+  },
+  {
+    "source": "^VIX",
+    "target": "MSFT",
+    "p_value": 5.0033963584574476e-08,
+    "lag": 3
+  },
+  {
+    "source": "TSLA",
+    "target": "NVDA",
+    "p_value": 0.008088899698169725,
+    "lag": 3
+  },
+  {
+    "source": "META",
+    "target": "AMD",
+    "p_value": 0.0077643229586298775,
+    "lag": 3
+  },
+  {
+    "source": "MSFT",
+    "target": "AMD",
+    "p_value": 0.04401474452565983,
+    "lag": 3
+  },
+  {
+    "source": "NVDA",
+    "target": "AMD",
+    "p_value": 0.01495063803440061,
+    "lag": 3
+  },
+  {
+    "source": "INTC",
+    "target": "AMD",
+    "p_value": 0.003888574656844958,
+    "lag": 3
+  },
+  {
+    "source": "SPY",
+    "target": "INTC",
+    "p_value": 0.009341394368174475,
+    "lag": 3
+  },
+  {
+    "source": "^VIX",
+    "target": "INTC",
+    "p_value": 5.264109797778177e-06,
+    "lag": 3
+  },
+  {
+    "source": "MSFT",
+    "target": "SPY",
+    "p_value": 0.022423682496372752,
+    "lag": 3
+  },
+  {
+    "source": "NVDA",
+    "target": "SPY",
+    "p_value": 0.0018261729343772353,
+    "lag": 3
+  },
+  {
+    "source": "AMD",
+    "target": "SPY",
+    "p_value": 0.04087735059931291,
+    "lag": 3
+  },
+  {
+    "source": "INTC",
+    "target": "SPY",
+    "p_value": 0.01533301103454557,
+    "lag": 3
+  },
+  {
+    "source": "QQQ",
+    "target": "SPY",
+    "p_value": 0.03753820662719467,
+    "lag": 3
+  },
+  {
+    "source": "^VIX",
+    "target": "SPY",
+    "p_value": 0.00037736417427044214,
+    "lag": 3
+  },
+  {
+    "source": "NVDA",
+    "target": "QQQ",
+    "p_value": 0.002997097497234145,
+    "lag": 3
+  },
+  {
+    "source": "TSLA",
+    "target": "QQQ",
+    "p_value": 0.026981845844595752,
+    "lag": 3
+  },
+  {
+    "source": "INTC",
+    "target": "QQQ",
+    "p_value": 1.3603463101730302e-05,
+    "lag": 3
+  },
+  {
+    "source": "SPY",
+    "target": "QQQ",
+    "p_value": 0.002541576337144409,
+    "lag": 3
+  },
+  {
+    "source": "^VIX",
+    "target": "QQQ",
+    "p_value": 0.000534670586429204,
+    "lag": 3
+  },
+  {
+    "source": "AAPL",
+    "target": "^VIX",
+    "p_value": 4.830209214649719e-140,
+    "lag": 3
+  },
+  {
+    "source": "AMZN",
+    "target": "^VIX",
+    "p_value": 3.027676014016463e-100,
+    "lag": 3
+  },
+  {
+    "source": "META",
+    "target": "^VIX",
+    "p_value": 1.1722892610080882e-86,
+    "lag": 3
+  },
+  {
+    "source": "NFLX",
+    "target": "^VIX",
+    "p_value": 7.2559711014819505e-62,
+    "lag": 3
+  },
+  {
+    "source": "GOOGL",
+    "target": "^VIX",
+    "p_value": 3.6121198806605895e-139,
+    "lag": 3
+  },
+  {
+    "source": "MSFT",
+    "target": "^VIX",
+    "p_value": 2.5435501185427746e-163,
+    "lag": 3
+  },
+  {
+    "source": "NVDA",
+    "target": "^VIX",
+    "p_value": 1.894961712316005e-53,
+    "lag": 3
+  },
+  {
+    "source": "TSLA",
+    "target": "^VIX",
+    "p_value": 2.120248451223467e-49,
+    "lag": 3
+  },
+  {
+    "source": "AMD",
+    "target": "^VIX",
+    "p_value": 4.776819734100752e-81,
+    "lag": 3
+  },
+  {
+    "source": "INTC",
+    "target": "^VIX",
+    "p_value": 1.0155271169446685e-163,
+    "lag": 3
+  },
+  {
+    "source": "SPY",
+    "target": "^VIX",
+    "p_value": 0.0,
+    "lag": 3
+  },
+  {
+    "source": "QQQ",
+    "target": "^VIX",
+    "p_value": 1.13339916237095e-259,
+    "lag": 3
+  }
+]

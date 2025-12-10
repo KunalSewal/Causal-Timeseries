@@ -1,0 +1,14 @@
+{
+  "model": "VAR",
+  "lag_order": 3,
+  "n_parameters": 520,
+  "metrics": {
+    "mse": 0.010731499330639117,
+    "rmse": 0.103592950197584,
+    "mae": 0.05437353931370876,
+    "r2": 0.9695422875165834
+  },
+  "aic": 3.0,
+  "bic": 2.0,
+  "n_granger_relationships": 48
+}

@@ -1,0 +1,10 @@
+{
+  "best_model": "TCN",
+  "best_mse": 0.7537432312965393,
+  "best_mae": 0.7384560108184814,
+  "best_r2": -1.3617979288101196,
+  "mse_improvement_pct": 52.91506169882858,
+  "mae_improvement_pct": 33.454251031630136,
+  "statistically_significant": true,
+  "p_value": 0.0
+}

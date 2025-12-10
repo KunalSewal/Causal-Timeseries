@@ -55,9 +55,9 @@ data/processed/*.h5
 # Experiment outputs
 experiments/results/model_outputs/*.pt
 experiments/results/model_outputs/*.pth
-experiments/results/graphs/*.png
-experiments/results/graphs/*.pdf
-experiments/results/*.json
+# Keep visualization files for README
+# experiments/results/graphs/*.png
+# experiments/results/graphs/*.pdf
 experiments/results/*.log
 
 # Logs

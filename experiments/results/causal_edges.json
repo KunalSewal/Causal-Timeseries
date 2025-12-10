@@ -1,0 +1,207 @@
+[
+  {
+    "source": "MSFT",
+    "target": "META",
+    "strength": 0.6463926733728406
+  },
+  {
+    "source": "GOOGL",
+    "target": "META",
+    "strength": 0.6443545727771299
+  },
+  {
+    "source": "TSLA",
+    "target": "AAPL",
+    "strength": 0.5174543330948672
+  },
+  {
+    "source": "QQQ",
+    "target": "META",
+    "strength": 0.51058967520152
+  },
+  {
+    "source": "META",
+    "target": "AAPL",
+    "strength": 0.4934729509982024
+  },
+  {
+    "source": "AMZN",
+    "target": "NFLX",
+    "strength": 0.48476303641692964
+  },
+  {
+    "source": "GOOGL",
+    "target": "SPY",
+    "strength": 0.4600062476238668
+  },
+  {
+    "source": "NVDA",
+    "target": "META",
+    "strength": 0.4545732088545804
+  },
+  {
+    "source": "NFLX",
+    "target": "META",
+    "strength": 0.43064891441824715
+  },
+  {
+    "source": "NVDA",
+    "target": "AAPL",
+    "strength": 0.42173251777686366
+  },
+  {
+    "source": "TSLA",
+    "target": "META",
+    "strength": 0.41806589263489596
+  },
+  {
+    "source": "NFLX",
+    "target": "SPY",
+    "strength": 0.3961659087684866
+  },
+  {
+    "source": "AMZN",
+    "target": "MSFT",
+    "strength": 0.3561347646909663
+  },
+  {
+    "source": "AAPL",
+    "target": "MSFT",
+    "strength": 0.33168821683935334
+  },
+  {
+    "source": "AMD",
+    "target": "SPY",
+    "strength": 0.3276854547726939
+  },
+  {
+    "source": "MSFT",
+    "target": "GOOGL",
+    "strength": 0.3129059688844334
+  },
+  {
+    "source": "QQQ",
+    "target": "NFLX",
+    "strength": 0.3060795064480128
+  },
+  {
+    "source": "META",
+    "target": "MSFT",
+    "strength": 0.30134530732696024
+  },
+  {
+    "source": "NVDA",
+    "target": "NFLX",
+    "strength": 0.2966319810367636
+  },
+  {
+    "source": "SPY",
+    "target": "MSFT",
+    "strength": 0.2805443862654084
+  },
+  {
+    "source": "SPY",
+    "target": "META",
+    "strength": 0.2767131458705781
+  },
+  {
+    "source": "META",
+    "target": "GOOGL",
+    "strength": 0.2742793162712307
+  },
+  {
+    "source": "QQQ",
+    "target": "GOOGL",
+    "strength": 0.27304871362818095
+  },
+  {
+    "source": "INTC",
+    "target": "NFLX",
+    "strength": 0.2694424796864005
+  },
+  {
+    "source": "^VIX",
+    "target": "META",
+    "strength": 0.2664978122280948
+  },
+  {
+    "source": "AMZN",
+    "target": "META",
+    "strength": 0.2546979108897945
+  },
+  {
+    "source": "SPY",
+    "target": "NVDA",
+    "strength": 0.24539741964681364
+  },
+  {
+    "source": "INTC",
+    "target": "META",
+    "strength": 0.23799750027603428
+  },
+  {
+    "source": "META",
+    "target": "SPY",
+    "strength": 0.22940783114786117
+  },
+  {
+    "source": "GOOGL",
+    "target": "AAPL",
+    "strength": 0.22862823649139663
+  },
+  {
+    "source": "META",
+    "target": "INTC",
+    "strength": 0.21264548835153654
+  },
+  {
+    "source": "SPY",
+    "target": "AMD",
+    "strength": 0.2096134045431039
+  },
+  {
+    "source": "MSFT",
+    "target": "AAPL",
+    "strength": 0.19938883804652585
+  },
+  {
+    "source": "^VIX",
+    "target": "SPY",
+    "strength": 0.19778101667180956
+  },
+  {
+    "source": "AMD",
+    "target": "META",
+    "strength": 0.19711153324916358
+  },
+  {
+    "source": "GOOGL",
+    "target": "AMD",
+    "strength": 0.17520619355717176
+  },
+  {
+    "source": "AMZN",
+    "target": "INTC",
+    "strength": 0.17055744893021182
+  },
+  {
+    "source": "QQQ",
+    "target": "AMD",
+    "strength": 0.16967487025963804
+  },
+  {
+    "source": "QQQ",
+    "target": "SPY",
+    "strength": 0.16685143715570755
+  },
+  {
+    "source": "AAPL",
+    "target": "GOOGL",
+    "strength": 0.16193641598226957
+  },
+  {
+    "source": "^VIX",
+    "target": "NFLX",
+    "strength": 0.15065761724889312
+  }
+]
