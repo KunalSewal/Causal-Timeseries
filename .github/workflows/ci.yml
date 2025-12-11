@@ -51,7 +51,10 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pytest pytest-cov
-        pip install -e .
+        # Install CPU-only PyTorch to avoid 3GB+ CUDA downloads
+        pip install torch --index-url https://download.pytorch.org/whl/cpu
+        # Install other dependencies without torch (already installed)
+        pip install numpy pandas scipy statsmodels scikit-learn matplotlib seaborn
       continue-on-error: true
     
     - name: Run unit tests
